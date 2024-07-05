@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="one:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="18e68d33-db7e-4c21-a13f-e85121320a41" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/operating-systems-23-24.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/one_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/one_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ars/AirlineReservationSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ars/console/async/AsynchronousSeatReservationSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ars/console/sync/SynchronizedSeatReservationSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ars/controller/SeatController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ars/models/Seat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ars/repository/SeatRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ars/service/SeatService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/ars/AirlineReservationSystem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/ars/controller/SeatController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/ars/models/Seat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/ars/repository/SeatRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/ars/service/SeatService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2iXsQ6zasHVnyPHEUgsMfMABH1H" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/ismet/operating-systems-23-24/AirlineReservationSystem",
+    "list.type.of.created.stylesheet": "CSS",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.4770115",
+    "spring.configuration.checksum": "0535c138e0dbbd4a9837421110439be4"
+  }
+}]]></component>
+  <component name="RunManager" selected="Maven.SpringBootRun">
+    <configuration name="SpringBootRun" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="spring-boot:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="AirlineReservationSystem" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="AirlineReservationSystem" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.ars.AirlineReservationSystem" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Maven.SpringBootRun" />
+      <item itemvalue="Spring Boot.AirlineReservationSystem" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18e68d33-db7e-4c21-a13f-e85121320a41" name="Changes" comment="" />
+      <created>1719648238281</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719648238281</updated>
+      <workItem from="1719648239714" duration="4965000" />
+      <workItem from="1719666371606" duration="218000" />
+      <workItem from="1719696159435" duration="274000" />
+      <workItem from="1719921337155" duration="49000" />
+      <workItem from="1720183433699" duration="8038000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

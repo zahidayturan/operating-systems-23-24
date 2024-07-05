@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Flight Reservation System</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<section id="menu">
+    <div class="custom-row">
+        <div class="header-box">Flight number<br>#200208</div>
+        <h3>Flight Seat Reservation</h3>
+        <div id="timer" class="header-box">Time remaining<br>60 seconds</div>
+    </div>
+
+    <div>
+        User ID: <input type="text" id="userId" value="user1" />
+    </div>
+    <div id="seats"></div>
+    <div class="custom-row start gap">
+        <div class="custom-row start">
+            <div class="exp available"></div>
+            <p>Available</p>
+        </div>
+        <div class="custom-row start">
+            <div class="exp reserved"></div>
+            <p>Reserved</p>
+        </div>
+        <div class="custom-row start">
+            <div class="exp selected"></div>
+            <p>Selected</p>
+        </div>
+    </div>
+
+</section>
+
+<script src="script.js"></script>
+</body>
+</html>
