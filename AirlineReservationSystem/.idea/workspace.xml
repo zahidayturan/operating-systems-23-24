@@ -10,35 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="18e68d33-db7e-4c21-a13f-e85121320a41" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/operating-systems-23-24.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/one_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/one_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ars/AirlineReservationSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ars/console/async/AsynchronousSeatReservationSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ars/console/sync/SynchronizedSeatReservationSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ars/controller/SeatController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ars/models/Seat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ars/repository/SeatRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ars/service/SeatService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/ars/AirlineReservationSystem.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/ars/controller/SeatController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/ars/models/Seat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/ars/repository/SeatRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/ars/service/SeatService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,7 +113,7 @@
       <workItem from="1719666371606" duration="218000" />
       <workItem from="1719696159435" duration="274000" />
       <workItem from="1719921337155" duration="49000" />
-      <workItem from="1720183433699" duration="8038000" />
+      <workItem from="1720183433699" duration="15999000" />
     </task>
     <servers />
   </component>
