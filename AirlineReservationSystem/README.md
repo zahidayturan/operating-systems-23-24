@@ -44,5 +44,14 @@ Reader-Writer Problem:
 ## Conclusion
 
 This project demonstrates handling multithreaded access to shared resources in Java, ensuring data integrity through proper synchronization techniques. The solution highlights both asynchronous and synchronous access patterns, showcasing potential issues and their resolutions.
+<div align="center">
+<img style="border-radius: 12px" src="gif.gif" width=95% >
+</div>
 
 
+### Installation
+
+```sh
+$ TODO
+localhost:8080
+```
